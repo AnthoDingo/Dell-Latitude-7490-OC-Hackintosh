@@ -16,8 +16,7 @@ OpenCore based EFI for Dell Latitude 7490
 - macOS Catalina 10.15.7
 - macOS BigSur 11.7.3
 - macOS Monterey 12.6.3
-- macOS Ventura 13.2
-
+- macOS Ventura 13.27.4
 
 ## System Configuration
 
@@ -32,12 +31,12 @@ OpenCore based EFI for Dell Latitude 7490
 
 ### BIOS Version
 
-1.30.0
+1.41.0
 
 
 ### Bootloader
 
-OpenCore 0.8.8
+OpenCore 1.0.4
 
 ### SMBIOS
 
